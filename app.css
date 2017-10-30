@@ -1,0 +1,26 @@
+form-control{
+
+}
+
+body {
+    background-color: #d9d9d9;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.jumbotron {
+    font: italic bold 12px/30px Georgia, serif;
+}
+
+.container {
+   /* border: 2px solid #d9d9d9;*/
+    background-color: #f2f2f2;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+}
+
+.NoteData{
+    border: 0.5px solid #d9d9d9;
+
+}
